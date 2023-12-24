@@ -1,12 +1,9 @@
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank"> Dacyz</a></h1> 
-<div align="center"> <img src='https://media.licdn.com/dms/image/D4D03AQEEje5t_4yUsw/profile-displayphoto-shrink_200_200/0/1673377536766?e=1709164800&v=beta&t=yOk0XI2rHpwRX5eZ_-hgqrk8aglvdIY05qjny2YjCq4'> </div>
-
+<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank"> Dacyz</a></h1>
 
 Mobile Developer & System Engineer Student 
 ------------------------------------------
 
-My name is Diego Arturo Yangua Merino, 2 years of independent development and already 2 years of experience for third parties (internships and work). Since 2019 focused on software, I started with Java/JavaFx desktop projects, to today manage web frameworks such as React, Next.js and Flask and Flutter mobile development, with a slight enthusiasm for the latter.
-<img src="https://img.shields.io/badge/Age-26-blue" /> <img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-brightgreen" /> 
+My name is Diego Arturo Yangua Merino, 2 years of independent development and already 2 years of experience for third parties (internships and work). Since 2019 focused on software, I started with Java/JavaFx desktop projects, to today manage web frameworks such as React, Next.js and Flask and Flutter mobile development, with a slight enthusiasm for the latter. <img src="https://img.shields.io/badge/Age-26-blue"/> <img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-brightgreen"/> <img src="https://img.shields.io/badge/College%20career-System%20Enginner%20(IX)-fedcba"/>
 
 * 🌍  I'm based in Piura, Perú
 * 🖥️  See my portfolio at [diegoyangua.fun](http://diegoyanguam.fun/)
