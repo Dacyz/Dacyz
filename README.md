@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/Age-21-blue"/> <img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-brightgreen"/> <img src="https://img.shields.io/badge/College%20career-System%20Enginner%20Student%20(IX)-fedcba"/>
 </div>
 <p>
-  My name is Diego Arturo Yangua Merino, 2 years of independent development and already 2 years of experience for third parties (internships and work). Since 2019 focused on software, I started with Java/JavaFx desktop projects, to today manage web frameworks such as React, Next.js and Flask and Flutter mobile development, with a slight enthusiasm for the latter. 
+  My name is Diego Arturo Yangua Merino. I possess 2 years of independent development and 2 years of work experience, including internships and employment. Since 2019, my focus has been on software development. I began with Java/JavaFX desktop projects and have since expanded my skills to manage frameworks such as Next.js, Flask, and Flutter for mobile development.
 </p>
 
 
