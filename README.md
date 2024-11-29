@@ -11,7 +11,7 @@
 
 <img alt="dsmark" align="right"  height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
 
-🌍  I'm from in Piura, Perú <br>
+🌍  I'm from Piura, Perú <br>
 🖥️  See my portfolio at [diegoyangua.fun](http://diegoyanguam.fun/) <br>
 ✉️  You can contact me at [DiegoYanguaM@gmail.com](mailto:DiegoYanguaM@gmail.com) <br>
 🚀  Currently working on [IsometricHPE](https://play.google.com/store/apps/details?id=com.dacydev.app_position) <br>
