@@ -1,20 +1,21 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank"> Diego Yangua M.</a></h1>
-<h4 align="center">A passionate Flutter Developer ~ Graduate System Engineer 👨‍🎓⚡</h4>
+<h4 align="center">A passionate .NET & Flutter Developer ~ Graduate System Engineer 👨‍🎓⚡</h4>
 
 <div align="center">
 <img src="https://img.shields.io/badge/Age-22-blue"/> <img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-brightgreen"/> <img src="https://img.shields.io/badge/Work%20at-Fractal-fedcba"/>
 </div>
 <p>
-  My name is Diego Arturo Yangua Merino. I possess 2 years of independent development and 2 years of work experience, including internships and employment. Since 2019, my focus has been on software development. I began with Java/JavaFX desktop projects and have since expanded my skills to manage frameworks such as Next.js, Flask, and Flutter for mobile development, with a slight enthusiasm for latter.
+  I'm a 22-year-old Systems Engineering graduate with 2 years of experience as an independent developer and 3 years of professional experience. Since 2019, I have been focused on software development, starting with Java and JavaFX for desktop applications. Over time, I have expanded my expertise to include frameworks such as Next.js and .NET for web and backend development. More recently, in my current job, I have been working extensively with Flutter for mobile development, a framework I am particularly enthusiastic about.
 </p>
 
 
 <img alt="dsmark" align="right"  height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
 
-🌍  I'm based in Piura, Perú <br>
+🌍  I'm from in Piura, Perú <br>
 🖥️  See my portfolio at [diegoyangua.fun](http://diegoyanguam.fun/) <br>
 ✉️  You can contact me at [DiegoYanguaM@gmail.com](mailto:DiegoYanguaM@gmail.com) <br>
-🚀  Currently working on [QuickDartRequest](http://quick-dart-request.vercel.app/) <br>
+🚀  Currently working on [IsometricHPE](https://play.google.com/store/apps/details?id=com.dacydev.app_position) <br>
+🍚  Also made this project [QuickDartRequest](http://quick-dart-request.vercel.app/) <br>
 🧠  I'm learning .NET / C# | OpenPose & ML models (thesis research) <br>
 🤝  Open to collaborating on other flutter projects!
 
@@ -22,34 +23,30 @@
 
 <p align="center" width="300px">
   <kbd>
-    <kbd>Frontend</kbd>
+    <kbd> 🖥️ Frontend</kbd>
     <br>
     <br>
+    <img width="25px" height="30px" src="https://astro.build/assets/press/astro-icon-light-gradient.png" /> 
     <img width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" /> 
-    <img width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" /> 
-    <img width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" /> 
-    <img width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" /> 
-    <img width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" /> 
-    <img width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" /> 
+    <img width="30px" src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" /> 
   </kbd>
   <kbd>
-    <kbd>Mobile</kbd>
+    <kbd> 📱 Mobile</kbd>
     <br>
     <br>
-    <img width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" /> 
-    <img width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" /> 
+    <img width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" />
     <img width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" /> 
-    <img width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" /> 
+    <img width="30px" src="https://miro.medium.com/v2/resize:fit:400/1*iraHUBVOkD3HnTLYoRWYDQ.png" />
   </kbd>
   <kbd>
-    <kbd>Backend</kbd>
+    <kbd> 🖧 Backend</kbd>
     <br>
     <br>
-    <img width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" /> 
+    <img width="30px" src="https://raw.githubusercontent.com/dotnet/brand/refs/heads/main/logo/dotnet-logo.jpg" /> 
     <img width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" /> 
   </kbd>
   <kbd>
-    <kbd>Desktop</kbd>
+    <kbd> 🖱️ Desktop</kbd>
     <br>
     <br>
     <img width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" /> 
@@ -57,15 +54,17 @@
     <img width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" /> 
   </kbd>
   <kbd>
-    <kbd>Other's</kbd>
+    <kbd> 📂 Other's</kbd>
     <br>
     <br>
     <img width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" /> 
-    <img width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" /> 
-    <img width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" /> 
-    <img width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" /> 
+    <img height="30px" src="https://spacecloudec.com/wp-content/uploads/2024/02/AWS_Simple_Icons_AWS_Cloud.svg_.png" /> 
+    <img width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" /> 
+    <img height="30px" src="https://www.mabl.com/hubfs/CICDBlog.png" /> 
   </kbd>
 </p>
+
 
 ---
 
